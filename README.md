@@ -8,14 +8,14 @@ LeadFollow integrates with Google Sheets to manage leads and automatically sends
 
 ## Features
 
-- 📊 **Google Sheets Integration** - Manage leads directly from a Google Sheets spreadsheet
-- 💬 **Multi-Channel Support** - Send notifications via:
+- **Google Sheets Integration** - Manage leads directly from a Google Sheets spreadsheet
+- **Multi-Channel Support** - Send notifications via:
   - Telegram
   - WhatsApp (Twilio)
   - WhatsApp Business API (WABA)
-- ⏰ **Scheduled Follow-ups** - Automatic nudges on specified follow-up dates
-- 📝 **Personalized Messages** - Customizable message templates with lead information
-- ✅ **Status Tracking** - Automatically update lead status to "Nudged" after sending
+- **Scheduled Follow-ups** - Automatic nudges on specified follow-up dates
+- **Personalized Messages** - Customizable message templates with lead information
+- **Status Tracking** - Automatically update lead status to "Nudged" after sending
 
 ## Requirements
 
@@ -136,7 +136,7 @@ LeadFollow/
 
 ## Security Notes
 
-⚠️ **Important:**
+**Important:**
 - Never commit `.env` or `service_account.json` files to version control
 - Use `.gitignore` to exclude sensitive files (already included)
 - Rotate API tokens regularly
@@ -156,4 +156,4 @@ For issues, questions, or feature requests, please open an issue on the GitHub r
 
 ---
 
-**Built with ❤️ by [CoderKarsh](https://github.com/CoderKarsh)**
+**Built by [CoderKarsh](https://github.com/CoderKarsh)**
